@@ -4,7 +4,7 @@
 
 head {
   height: 100px;
-  bottom-border: 1px, solid, #ccc;
+  border-bottom: 1px, solid, #ccc;
   border
 }
 
